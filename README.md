@@ -1,6 +1,5 @@
 
 
-## Overview
 This project is a mobile robot controlled by an **Arduino Uno** and **two L293D motor driver ICs**.  
 It operates autonomously, performing predefined movement patterns while avoiding obstacles using an **ultrasonic sensor** mounted on a **servo motor**.
 
